@@ -1,0 +1,13 @@
+﻿  main.cpp
+  MyGame.cpp
+C:\Users\tommy\OneDrive\Desktop\Projects\OpenGLGame\Game\main.cpp(10,10): error C2248: 'MyGame::MyGame': cannot access private member declared in class 'MyGame'
+  C:\Users\tommy\OneDrive\Desktop\Projects\OpenGLGame\Game\MyGame.h(10,2):
+  see declaration of 'MyGame::MyGame'
+  C:\Users\tommy\OneDrive\Desktop\Projects\OpenGLGame\Game\MyGame.h(7,7):
+  see declaration of 'MyGame'
+  
+  OEntity.cpp
+  OEntitySystem.cpp
+  CWin32Game.cpp
+  OGame.cpp
+  Generating Code...
